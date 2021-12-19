@@ -9,9 +9,9 @@ Team Members:-
   6. Sai Koushik Rao
  Mentor/Guide:-
       1.SriHari
+      
 First we introduced ourselves ,we get to know Eachother and  skills based on that we divided our work
 We disscussed about what are the requirements to do projects and what are the skills we have to use
 Sql part ,php ,Hmtl part of our project divided among us based on our skills
 Rayees,Manjunath took Sql Part
-Sravanthi,Koushik-took Html part
-Maneesha ,Shivani -took PHP part 
+Sravanthi,Koushik,Maneesha ,Shivani -took PHP,JavaScript,Html part
