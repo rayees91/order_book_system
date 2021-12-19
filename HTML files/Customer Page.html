@@ -2,7 +2,7 @@
 <html>  
 <meta name="viewport" content="width=device-width, initial-scale=1">    
 <meta charset="UTF-8">    
-<title> Order Book System </title>     
+<title> Order Book System </title>
  </head>  
 <style>  
 body {  
@@ -103,8 +103,7 @@ button:hover {
  <h2> Order Book System </h2>   
 <form action="#" method="post">  
   <div class="elem-group">  
-    <label for="name"> Search Stock </label>  
-    <input type="text" id="name" name="visitor_name" placeholder="Choose from below or type the stock type here" pattern= [A-Z\sa-z]{3,20} required>  
+    <label for="name"> Search Stock </label>    
     <select type="room-selection" name="room_preference" required>  
         <option value=""> Stock </option>  
         <option value="text"> BDS </option> 
@@ -134,11 +133,7 @@ button:hover {
         <option value="30"> 30 </option>  
     </select>  
   </div>  
-  <hr>  
-  <div class="elem-group">  
-    <label for="message"> Message </label>  
-    <textarea id="message" name="visitor_message" placeholder="Tell us anything else that might be important." required> </textarea>  
-  </div>  
+  <hr>   
   <button type="submit"> Place Order </button>  
 </form>  
 <script>  

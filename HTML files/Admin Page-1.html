@@ -10,6 +10,9 @@
   margin: 4px 2px;
   cursor: pointer;
 }
+table, th, td {
+  border:1px solid black;
+}
 
 
 .button1 {background-color: #db0d0d;} 
@@ -20,8 +23,8 @@
 
 
 <html>
-<h2 style="color:blue;"><center>Admin Screen-1</center><br><br></head>
-<body style="background-color:rgb(153, 8, 8);">
+<h2 style="color:blue;"><center>Admin Screen</center><br><br></head>
+<body style="background-color:rgb(105, 14, 26);">
 <div style="background-image: url('C:\Users\dell\Desktop\campus');"> 
 <link rel="stylesheet" "C:\Users\dell\Desktop\b.css">
 <button class="button button1">open market</button>
@@ -37,6 +40,23 @@
 <input type="text" id="fdate" name="fromdate">
 <input type="text" id="tdate" name="todate">
 <button>show orders</button><br><br><br>
+
+<table>
+  <tr>
+    <th>Stock Name</th>
+    <th>Order Qty</th>
+    <th>Order Type</th>
+    <th>Executed Qty</th>
+    <th>Price</th>
+    <th>Order status</th>
+    <th>Order Date</th>
+  </tr>
+  
+</table>
+<br>
+<br>
+
+
 <table>
   <tr>
    <label>Execution qty</label>
