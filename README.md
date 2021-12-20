@@ -14,5 +14,5 @@ First we introduced ourselves ,we get to know Eachother and  skills based on tha
 We disscussed about what are the requirements to do projects and what are the skills we have to use
 Sql part ,php ,Hmtl part of our project divided among us based on our skills
 Rayees,Manjunath took Sql Part
-Sravnthi-took php part
+Sravnathi-took php part
 Sravanthi,Koushik,Maneesha ,Shivani -took PHP,Html,javascript part
